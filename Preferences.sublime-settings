@@ -1,0 +1,72 @@
+{
+	"added_words":
+	[
+		"sucessful"
+	],
+	"always_prompt_for_file_reload": true,
+	"aprosopo_active_bar": true,
+	"aprosopo_dark_dirty_red": true,
+	"aprosopo_dark_gray": true,
+	"aprosopo_show_tab_close_buttons": true,
+	"aprosopo_solid_tab": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 0,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/User/Blue Zen (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.psd",
+		"*.db"
+	],
+	"font_face": "monaco",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"http_proxy": "10.0.8.102:8080",
+	"https_proxy": "10.0.8.102:8080",
+	"ignored_packages":
+	[
+		"StringEncode",
+		"SublimeCodeIntel",
+		"HypnotoadSVN"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"spell_check": true,
+	"tab_height_short": true,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}
